@@ -15,6 +15,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/rivixal_official)
 [![Telegram PM](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/rivixal)
 [![Website](https://img.shields.io/badge/Website-Visit-black)](https://rivixal.github.io)
+[![YouTube](https://img.shields.io/badge/Youtube-Visit-darkred)](https://youtube.com/@rivixal)
 
 
 <!--
