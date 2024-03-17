@@ -14,8 +14,8 @@
 [![OpenVK](https://img.shields.io/badge/OpenVK-Profile-darkgray)](https://ovk.to/maydilsiel)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/rivixal_official)
 [![Telegram PM](https://img.shields.io/badge/Telegram-PM-blue)](https://t.me/rivixal)
-[![Website](https://img.shields.io/badge/Website-Visit-black)](https://rivixal.github.io)
-[![YouTube](https://img.shields.io/badge/Youtube-Visit-darkred)](https://youtube.com/@rivixal)
+[![Website](https://img.shields.io/badge/Website-Site-black)](https://rivixal.github.io)
+[![YouTube](https://img.shields.io/badge/Youtube-Rivixal-darkred)](https://youtube.com/@rivixal)
 
 
 <!--
